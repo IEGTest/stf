@@ -15,7 +15,7 @@ We  welcome financial contributions in full transparency on our [open collective
 
 ![Super short screencast showing usage](doc/7s_usage.gif?raw=true)
 
-## Credits
+## Credits11111
 
 ### Sponsors
 
